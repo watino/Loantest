@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="th.in.nextflow.ionic.navigation.webapi" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Web API 1</name>
+    <name>Web API 2</name>
     <description>Example Web API request in Ionic</description>
     <author email="training@nextflow.in.th" href="https://www.nextflow.in.th/">Nextflow Training</author>
     <content src="index.html" />
